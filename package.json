@@ -1,0 +1,32 @@
+{
+  "name": "body-fit",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://shenkar.html5-book.co.il/2018-2019/dcs/dev_271/",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1",
+    "react-google-login": "^5.0.2",
+    "react-id-generator": "^0.1.6",
+    "react-iframe": "^1.4.0",
+    "react-notifications": "^1.4.3",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": " react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
